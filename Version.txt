@@ -1,1 +1,2 @@
 1.0
+sha256=<hash dari certutil -hashfile Setup_OmniRing.exe SHA256>
